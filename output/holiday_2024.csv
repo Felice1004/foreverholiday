@@ -1,0 +1,420 @@
+Country,Date,Weekday,Name,Type
+australia,01/01/2024,Monday,New Year's Day,National Holiday
+australia,25/01/2024,Thursday,Tu B'Shevat (Arbor Day),Jewish holiday
+australia,26/01/2024,Friday,Australia Day,National Holiday
+australia,10/02/2024,Saturday,Lunar New Year,State Holiday
+australia,11/02/2024,Sunday,Lunar New Year Holiday (Day 2),State Holiday
+australia,12/02/2024,Monday,Royal Hobart Regatta,State Holiday
+australia,04/03/2024,Monday,Labour Day,State Holiday
+australia,11/03/2024,Monday,Labour Day,State Holiday
+australia,11/03/2024,Monday,Adelaide Cup,State Holiday
+australia,11/03/2024,Monday,Canberra Day,State Holiday
+australia,24/03/2024,Sunday,Purim,Jewish holiday
+australia,29/03/2024,Friday,Good Friday,National Holiday
+australia,30/03/2024,Saturday,Holy Saturday,State Holiday
+australia,31/03/2024,Sunday,Easter Sunday,State Holiday
+australia,01/04/2024,Monday,Easter Monday,National Holiday
+australia,02/04/2024,Tuesday,Easter Tuesday,State Public Sector Holiday
+australia,06/04/2024,Saturday,Self Determination Day,State Holiday
+australia,08/04/2024,Monday,Day off for Self Determination Day,State Holiday
+australia,10/04/2024,Wednesday,Hari Raya Puasa,State Holiday
+australia,23/04/2024,Tuesday,First day of Passover,Jewish holiday
+australia,25/04/2024,Thursday,ANZAC Day,National Holiday
+australia,30/04/2024,Tuesday,Last day of Passover,Jewish holiday
+australia,06/05/2024,Monday,May Day,State Holiday
+australia,14/05/2024,Tuesday,Yom HaAtzmaut,Jewish holiday
+australia,26/05/2024,Sunday,Lag B'Omer,Jewish holiday
+australia,27/05/2024,Monday,Reconciliation Day,State Holiday
+australia,03/06/2024,Monday,Western Australia Day,State Holiday
+australia,10/06/2024,Monday,King's Birthday,State Holiday
+australia,12/06/2024,Wednesday,Shavuot,Jewish holiday
+australia,17/06/2024,Monday,Hari Raya Haji,State Holiday
+australia,05/08/2024,Monday,New South Wales Bank Holiday,State Bank Holiday
+australia,05/08/2024,Monday,Northern Territory Picnic Day,State Holiday
+australia,13/08/2024,Tuesday,Tisha B'Av,Jewish holiday
+australia,14/08/2024,Wednesday,Royal National Agricultural Show Day Queensland,State Holiday
+australia,16/09/2024,Monday,Hari Maulad Nabi,State Holiday
+australia,23/09/2024,Monday,King's Birthday,State Holiday
+australia,27/09/2024,Friday,Friday before the AFL Grand Final (Tentative Date),State Holiday
+australia,03/10/2024,Thursday,Rosh Hashana,Jewish holiday
+australia,07/10/2024,Monday,Territory Day,State Holiday
+australia,07/10/2024,Monday,King's Birthday,State Holiday
+australia,07/10/2024,Monday,Labour Day,State Holiday
+australia,12/10/2024,Saturday,Yom Kippur,Jewish holiday
+australia,17/10/2024,Thursday,First day of Sukkot,Jewish holiday
+australia,23/10/2024,Wednesday,Hoshana Rabbah,Jewish holiday
+australia,24/10/2024,Thursday,Shemini Atzeret,Jewish holiday
+australia,24/10/2024,Thursday,Royal Hobart Show,State Holiday
+australia,25/10/2024,Friday,Simchat Torah,Jewish holiday
+australia,04/11/2024,Monday,Recreation Day,State Holiday
+australia,05/11/2024,Tuesday,Melbourne Cup Day,State Holiday
+australia,24/12/2024,Tuesday,Christmas Eve,Part Day Holiday
+australia,25/12/2024,Wednesday,Christmas Day,National Holiday
+australia,26/12/2024,Thursday,First Day of Hanukkah,Jewish holiday
+australia,26/12/2024,Thursday,Boxing Day,National Holiday
+australia,26/12/2024,Thursday,Proclamation Day,State Holiday
+australia,31/12/2024,Tuesday,New Year's Eve,Part Day Holiday
+taiwan,01/01/2024,Monday,Republic Day/New Year's Day,National holiday
+taiwan,08/02/2024,Thursday,Lunar New Year Holiday,National holiday
+taiwan,09/02/2024,Friday,Lunar New Year's Eve,National holiday
+taiwan,10/02/2024,Saturday,Lunar New Year's Day,National holiday
+taiwan,11/02/2024,Sunday,Lunar New Year Holiday,National holiday
+taiwan,12/02/2024,Monday,Lunar New Year Holiday,National holiday
+taiwan,13/02/2024,Tuesday,Lunar New Year Holiday,National holiday
+taiwan,14/02/2024,Wednesday,Lunar New Year Holiday,National holiday
+taiwan,28/02/2024,Wednesday,Peace Memorial Day,National holiday
+taiwan,04/04/2024,Thursday,Tomb Sweeping Day,National holiday
+taiwan,04/04/2024,Thursday,Children's Day,National holiday
+taiwan,10/06/2024,Monday,Dragon Boat Festival,National holiday
+taiwan,17/09/2024,Tuesday,Mid-Autumn Festival,National holiday
+taiwan,10/10/2024,Thursday,National Day,National holiday
+japan,01/01/2024,Monday,New Year's Day,National holiday
+japan,01/01/2024,Monday,January 1 Bank Holiday,Bank holiday
+japan,02/01/2024,Tuesday,January 2 Bank Holiday,Bank holiday
+japan,03/01/2024,Wednesday,January 3 Bank Holiday,Bank holiday
+japan,08/01/2024,Monday,Coming of Age Day,National holiday
+japan,11/02/2024,Sunday,National Foundation Day,National holiday
+japan,12/02/2024,Monday,National Foundation Day observed,National holiday
+japan,23/02/2024,Friday,Emperor's Birthday,National holiday
+japan,20/03/2024,Wednesday,Spring Equinox,National holiday
+japan,29/04/2024,Monday,Shōwa Day,National holiday
+japan,03/05/2024,Friday,Constitution Memorial Day,National holiday
+japan,04/05/2024,Saturday,Greenery Day,National holiday
+japan,05/05/2024,Sunday,Children's Day,National holiday
+japan,06/05/2024,Monday,Children's Day observed,National holiday
+japan,15/07/2024,Monday,Sea Day,National holiday
+japan,11/08/2024,Sunday,Mountain Day,National holiday
+japan,12/08/2024,Monday,Day off for Mountain Day,National holiday
+japan,16/09/2024,Monday,Respect for the Aged Day,National holiday
+japan,22/09/2024,Sunday,Autumn Equinox,National holiday
+japan,23/09/2024,Monday,Autumn Equinox observed,National holiday
+japan,14/10/2024,Monday,Sports Day,National holiday
+japan,03/11/2024,Sunday,Culture Day,National holiday
+japan,04/11/2024,Monday,Culture Day observed,National holiday
+japan,23/11/2024,Saturday,Labor Thanksgiving Day,National holiday
+japan,31/12/2024,Tuesday,December 31 Bank Holiday,Bank holiday
+south-korea,01/01/2024,Monday,New Year's Day,Public Holiday
+south-korea,10/02/2024,Saturday,Seollal Holiday,Public Holiday
+south-korea,10/02/2024,Saturday,Seollal,Public Holiday
+south-korea,12/02/2024,Monday,Seollal Holiday,Public Holiday
+south-korea,01/03/2024,Friday,Independence Movement Day,National holiday
+south-korea,01/05/2024,Wednesday,Labor Day,Bank Holiday
+south-korea,05/05/2024,Sunday,Children's Day,Public Holiday
+south-korea,15/05/2024,Wednesday,Buddha’s Birthday,Public Holiday
+south-korea,06/06/2024,Thursday,Memorial Day,Public Holiday
+south-korea,15/08/2024,Thursday,Liberation Day,National holiday
+south-korea,16/09/2024,Monday,Chuseok Holiday,Public Holiday
+south-korea,17/09/2024,Tuesday,Chuseok,Public Holiday
+south-korea,18/09/2024,Wednesday,Chuseok Holiday,Public Holiday
+south-korea,03/10/2024,Thursday,National Foundation Day,National holiday
+south-korea,09/10/2024,Wednesday,Hangeul Proclamation Day,National holiday
+south-korea,25/12/2024,Wednesday,Christmas Day,Public Holiday
+vietnam,01/01/2024,Monday,International New Year's Day,National holiday
+vietnam,09/02/2024,Friday,Vietnamese New Year's Eve,National holiday
+vietnam,10/02/2024,Saturday,Vietnamese New Year,National holiday
+vietnam,11/02/2024,Sunday,Tet holiday,National holiday
+vietnam,12/02/2024,Monday,Tet holiday,National holiday
+vietnam,13/02/2024,Tuesday,Tet holiday,National holiday
+vietnam,14/02/2024,Wednesday,Tet holiday,National holiday
+vietnam,18/04/2024,Thursday,Hung Kings Festival,National holiday
+vietnam,30/04/2024,Tuesday,Liberation Day/Reunification Day,National holiday
+vietnam,01/05/2024,Wednesday,International Labor Day,National holiday
+vietnam,02/09/2024,Monday,Independence Day,National holiday
+indonesia,01/01/2024,Monday,New Year's Day,Public Holiday
+indonesia,08/02/2024,Thursday,Ascension of the Prophet Muhammad (Tentative Date),Public Holiday
+indonesia,10/02/2024,Saturday,Lunar New Year's Day,Public Holiday
+indonesia,08/03/2024,Friday,Maha Shivaratri,Hindu Holiday
+indonesia,11/03/2024,Monday,Bali's Day of Silence and Hindu New Year (Nyepi),Public Holiday
+indonesia,25/03/2024,Monday,Holi,Hindu Holiday
+indonesia,29/03/2024,Friday,Good Friday,Public Holiday
+indonesia,10/04/2024,Wednesday,Idul Fitri (Tentative Date),Public Holiday
+indonesia,11/04/2024,Thursday,Idul Fitri Holiday (Tentative Date),Public Holiday
+indonesia,01/05/2024,Wednesday,International Labor Day,Public Holiday
+indonesia,09/05/2024,Thursday,Ascension Day of Jesus Christ,Public Holiday
+indonesia,23/05/2024,Thursday,Waisak Day (Buddha's Anniversary),Public Holiday
+indonesia,01/06/2024,Saturday,Pancasila Day,National holiday
+indonesia,17/06/2024,Monday,Idul Adha (Tentative Date),Public Holiday
+indonesia,07/07/2024,Sunday,Muharram / Islamic New Year (Tentative Date),Public Holiday
+indonesia,17/08/2024,Saturday,Indonesian Independence Day,Public Holiday
+indonesia,19/08/2024,Monday,Raksha Bandhan,Hindu Holiday
+indonesia,26/08/2024,Monday,Janmashtami,Hindu Holiday
+indonesia,07/09/2024,Saturday,Ganesh Chaturthi,Hindu Holiday
+indonesia,15/09/2024,Sunday,Maulid Nabi Muhammad (The Prophet Muhammad's Birthday) (Tentative Date),Public Holiday
+indonesia,03/10/2024,Thursday,Navaratri,Hindu Holiday
+indonesia,12/10/2024,Saturday,Dussehra,Hindu Holiday
+indonesia,25/12/2024,Wednesday,Christmas Day,Public Holiday
+thailand,01/01/2024,Monday,New Year's Day,National holiday
+thailand,24/02/2024,Saturday,Makha Bucha,National holiday
+thailand,26/02/2024,Monday,Day off for Makha Bucha,National holiday
+thailand,06/04/2024,Saturday,Chakri Day,National holiday
+thailand,08/04/2024,Monday,Chakri Day observed,National holiday
+thailand,13/04/2024,Saturday,Songkran,National holiday
+thailand,14/04/2024,Sunday,Songkran,National holiday
+thailand,15/04/2024,Monday,Songkran,National holiday
+thailand,16/04/2024,Tuesday,Songkran Observed,National holiday
+thailand,01/05/2024,Wednesday,Labor Day,Bank holiday
+thailand,04/05/2024,Saturday,Coronation Day,National holiday
+thailand,06/05/2024,Monday,Coronation Day observed,National holiday
+thailand,06/05/2024,Monday,Royal Ploughing Ceremony Day (Tentative Date),Government Holiday
+thailand,03/06/2024,Monday,Queen Suthida's Birthday,National holiday
+thailand,20/07/2024,Saturday,Buddhist Lent Day,National holiday
+thailand,22/07/2024,Monday,Day off for Buddhist Lent Day,National holiday
+thailand,28/07/2024,Sunday,King Vajiralongkorn's Birthday,National holiday
+thailand,29/07/2024,Monday,King Vajiralongkorn's Birthday observed,National holiday
+thailand,12/08/2024,Monday,The Queen's Birthday,National holiday
+thailand,13/10/2024,Sunday,Anniversary of the Death of King Bhumibol,National holiday
+thailand,14/10/2024,Monday,Anniversary of the Death of King Bhumibol observed,National holiday
+thailand,23/10/2024,Wednesday,Chulalongkorn Day,National holiday
+thailand,05/12/2024,Thursday,King Bhumibol's Birthday/Father's Day,National holiday
+thailand,10/12/2024,Tuesday,Constitution Day,National holiday
+thailand,31/12/2024,Tuesday,New Year's Eve,National holiday
+new-zealand,01/01/2024,Monday,New Year's Day,National holiday
+new-zealand,02/01/2024,Tuesday,Day after New Year's Day,National holiday
+new-zealand,22/01/2024,Monday,Wellington Anniversary Day,Local holiday
+new-zealand,29/01/2024,Monday,Northland Anniversary Day,Local holiday
+new-zealand,29/01/2024,Monday,Auckland Anniversary Day,Local holiday
+new-zealand,29/01/2024,Monday,Nelson Anniversary Day,Local holiday
+new-zealand,06/02/2024,Tuesday,Waitangi Day,National holiday
+new-zealand,11/03/2024,Monday,Taranaki Anniversary Day,Local holiday
+new-zealand,25/03/2024,Monday,Otago Anniversary Day,Local holiday
+new-zealand,29/03/2024,Friday,Good Friday,National holiday
+new-zealand,01/04/2024,Monday,Easter Monday,National holiday
+new-zealand,02/04/2024,Tuesday,Southland Anniversary Day,Local holiday
+new-zealand,25/04/2024,Thursday,ANZAC Day,National holiday
+new-zealand,03/06/2024,Monday,King's Birthday,National holiday
+new-zealand,28/06/2024,Friday,Matariki,National holiday
+new-zealand,23/09/2024,Monday,South Canterbury Anniversary Day,Local holiday
+new-zealand,25/10/2024,Friday,Hawke's Bay Anniversary Day,Local holiday
+new-zealand,28/10/2024,Monday,Labour Day,National holiday
+new-zealand,04/11/2024,Monday,Marlborough Anniversary Day,Local holiday
+new-zealand,15/11/2024,Friday,Canterbury Anniversary Day,Local holiday
+new-zealand,02/12/2024,Monday,Chatham Islands Anniversary Day,Local holiday
+new-zealand,02/12/2024,Monday,Westland Anniversary Day,Local holiday
+new-zealand,25/12/2024,Wednesday,Christmas Day,National holiday
+new-zealand,26/12/2024,Thursday,Boxing Day,National holiday
+philippines,01/01/2024,Monday,New Year's Day,Regular Holiday
+philippines,07/02/2024,Wednesday,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday
+philippines,10/02/2024,Saturday,Lunar New Year's Day,Special Non-working Holiday
+philippines,25/02/2024,Sunday,People Power Anniversary,Special Non-working Holiday
+philippines,28/03/2024,Thursday,Maundy Thursday,Regular Holiday
+philippines,29/03/2024,Friday,Good Friday,Regular Holiday
+philippines,30/03/2024,Saturday,Black Saturday,Special Non-working Holiday
+philippines,09/04/2024,Tuesday,The Day of Valor,Regular Holiday
+philippines,10/04/2024,Wednesday,Eidul-Fitar (Tentative Date),Regular Holiday
+philippines,01/05/2024,Wednesday,Labor Day,Regular Holiday
+philippines,12/06/2024,Wednesday,Independence Day,Regular Holiday
+philippines,17/06/2024,Monday,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday
+philippines,18/06/2024,Tuesday,Eid al-Adha Day 2 (Tentative Date),Common local holiday
+philippines,08/07/2024,Monday,Amun Jadid,"Muslim, Common local holiday"
+philippines,21/08/2024,Wednesday,Ninoy Aquino Day,Special Non-working Holiday
+philippines,26/08/2024,Monday,National Heroes Day,Regular Holiday
+philippines,16/09/2024,Monday,Maulid un-Nabi (Tentative Date),Common local holiday
+philippines,01/11/2024,Friday,All Saints' Day,Special Non-working Holiday
+philippines,30/11/2024,Saturday,Bonifacio Day,Regular Holiday
+philippines,08/12/2024,Sunday,Feast of the Immaculate Conception,Special Non-working Holiday
+philippines,25/12/2024,Wednesday,Christmas Day,Regular Holiday
+philippines,30/12/2024,Monday,Rizal Day,Regular Holiday
+philippines,31/12/2024,Tuesday,New Year's Eve,Special Non-working Holiday
+malaysia,01/01/2024,Monday,New Year's Day,State Holiday
+malaysia,14/01/2024,Sunday,Birthday of Yang di-Pertuan Besar,State Holiday
+malaysia,15/01/2024,Monday,Birthday of Yang di-Pertuan Besar observed,State Holiday
+malaysia,25/01/2024,Thursday,Thaipusam,State Holiday
+malaysia,01/02/2024,Thursday,Federal Territory Day,Federal Territory Holiday
+malaysia,08/02/2024,Thursday,Isra and Mi'raj (Tentative Date),State Holiday
+malaysia,10/02/2024,Saturday,Lunar New Year's Day,Federal Public Holiday
+malaysia,11/02/2024,Sunday,Second Day of Lunar New Year,Federal Public Holiday
+malaysia,11/02/2024,Sunday,Lunar New Year Holiday,State Holiday
+malaysia,04/03/2024,Monday,Anniversary of the Coronation of the Sultan of Terengganu,State Holiday
+malaysia,12/03/2024,Tuesday,First Day of Ramadan (Tentative Date),State Holiday
+malaysia,23/03/2024,Saturday,Birthday of the Sultan of Johor,State Holiday
+malaysia,28/03/2024,Thursday,Nuzul Al-Quran (Tentative Date),State Holiday
+malaysia,29/03/2024,Friday,Good Friday,State Holiday
+malaysia,10/04/2024,Wednesday,Hari Raya Puasa (Tentative Date),Federal Public Holiday
+malaysia,11/04/2024,Thursday,Hari Raya Puasa Day 2 (Tentative Date),Federal Public Holiday
+malaysia,15/04/2024,Monday,Declaration of Malacca as Historical City,State Holiday
+malaysia,26/04/2024,Friday,Birthday of the Sultan of Terengganu,State Holiday
+malaysia,01/05/2024,Wednesday,Labour Day,Federal Public Holiday
+malaysia,17/05/2024,Friday,Birthday of the Raja of Perlis,State Holiday
+malaysia,22/05/2024,Wednesday,Wesak Day,Federal Public Holiday
+malaysia,22/05/2024,Wednesday,Pahang State Holiday,State Holiday
+malaysia,30/05/2024,Thursday,Harvest Festival,State Holiday
+malaysia,31/05/2024,Friday,Second Day of Harvest Festival,State Holiday
+malaysia,01/06/2024,Saturday,Gawai Dayak,State Holiday
+malaysia,02/06/2024,Sunday,Gawai Dayak Holiday,State Holiday
+malaysia,03/06/2024,Monday,The Yang di-Pertuan Agong's Birthday,Federal Public Holiday
+malaysia,03/06/2024,Monday,Gawai Dayak Holiday observed,State Holiday
+malaysia,16/06/2024,Sunday,Day of Arafat (Tentative Date),State Holiday
+malaysia,17/06/2024,Monday,Hari Raya Haji (Tentative Date),Federal Public Holiday
+malaysia,18/06/2024,Tuesday,Hari Raya Haji (Day 2) (Tentative Date),Federal Public Holiday
+malaysia,18/06/2024,Tuesday,Hari Raya Haji (Day 2) (Tentative Date),State Holiday
+malaysia,30/06/2024,Sunday,Sultan of Kedah's Birthday,State Holiday
+malaysia,07/07/2024,Sunday,Muharram/New Year (Tentative Date),Federal Public Holiday
+malaysia,07/07/2024,Sunday,George Town World Heritage City Day,State Holiday
+malaysia,13/07/2024,Saturday,Penang Governor's Birthday,State Holiday
+malaysia,22/07/2024,Monday,Sarawak Independence Day,State Holiday
+malaysia,30/07/2024,Tuesday,Birthday of the Sultan of Pahang,State Holiday
+malaysia,11/08/2024,Sunday,Almarhum Sultan Iskandar Hol Day (Tentative Date),State Holiday
+malaysia,24/08/2024,Saturday,Birthday of the Governor of Malacca,State Holiday
+malaysia,31/08/2024,Saturday,Malaysia's National Day,Federal Public Holiday
+malaysia,16/09/2024,Monday,The Prophet Muhammad's Birthday (Tentative Date),Federal Public Holiday
+malaysia,16/09/2024,Monday,Malaysia Day,Federal Public Holiday
+malaysia,29/09/2024,Sunday,Birthday of the Sultan of Kelantan,State Holiday
+malaysia,30/09/2024,Monday,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+malaysia,05/10/2024,Saturday,Birthday of the Governor of Sabah,State Holiday
+malaysia,12/10/2024,Saturday,Birthday of the Governor of Sarawak,State Holiday
+malaysia,31/10/2024,Thursday,Diwali/Deepavali,Federal Public Holiday
+malaysia,01/11/2024,Friday,Birthday of the Sultan of Perak,State Holiday
+malaysia,11/12/2024,Wednesday,Birthday of the Sultan of Selangor,State Holiday
+malaysia,24/12/2024,Tuesday,Christmas Eve,State Holiday
+malaysia,25/12/2024,Wednesday,Christmas Day,Federal Public Holiday
+singapore,01/01/2024,Monday,New Year's Day,National holiday
+singapore,10/02/2024,Saturday,Lunar New Year's Day,National holiday
+singapore,11/02/2024,Sunday,Second Day of Lunar New Year,National holiday
+singapore,12/02/2024,Monday,Day off for Lunar New Year's Day,National holiday
+singapore,29/03/2024,Friday,Good Friday,National holiday
+singapore,10/04/2024,Wednesday,Hari Raya Puasa (Tentative Date),National holiday
+singapore,01/05/2024,Wednesday,Labour Day,National holiday
+singapore,22/05/2024,Wednesday,Vesak Day,National holiday
+singapore,17/06/2024,Monday,Hari Raya Haji (Tentative Date),National holiday
+singapore,09/08/2024,Friday,National Day,National holiday
+singapore,31/10/2024,Thursday,Diwali/Deepavali,National holiday
+singapore,25/12/2024,Wednesday,Christmas Day,National holiday
+hong-kong,01/01/2024,Monday,New Year's Day,National holiday
+hong-kong,10/02/2024,Saturday,Lunar New Year's Day,National holiday
+hong-kong,12/02/2024,Monday,Third Day of Lunar New Year,National holiday
+hong-kong,13/02/2024,Tuesday,Fourth Day of Lunar New Year,National holiday
+hong-kong,29/03/2024,Friday,Good Friday,National holiday
+hong-kong,30/03/2024,Saturday,Holy Saturday,National holiday
+hong-kong,01/04/2024,Monday,Easter Monday,National holiday
+hong-kong,04/04/2024,Thursday,Tomb Sweeping Day,National holiday
+hong-kong,01/05/2024,Wednesday,Labour Day,National holiday
+hong-kong,15/05/2024,Wednesday,Buddha's Birthday,National holiday
+hong-kong,10/06/2024,Monday,Dragon Boat Festival,National holiday
+hong-kong,01/07/2024,Monday,Hong Kong Special Administrative Region Establishment Day,National holiday
+hong-kong,18/09/2024,Wednesday,Day after Mid-Autumn Festival,National holiday
+hong-kong,01/10/2024,Tuesday,National Day of the People's Republic of China,National holiday
+hong-kong,11/10/2024,Friday,Chung Yeung Festival,National holiday
+hong-kong,25/12/2024,Wednesday,Christmas Day,National holiday
+hong-kong,26/12/2024,Thursday,First Weekday After Christmas Day,National holiday
+us,01/01/2024,Monday,New Year's Day,State Holiday
+us,01/01/2024,Monday,New Year's Day,Federal Holiday
+us,01/01/2024,Monday,New Year's Eve observed,State Holiday
+us,08/01/2024,Monday,Battle of New Orleans,State Legal Holiday
+us,15/01/2024,Monday,Martin Luther King Jr. Day,State Holiday
+us,15/01/2024,Monday,Martin Luther King Jr. Day,Federal Holiday
+us,15/01/2024,Monday,Robert E. Lee's Birthday,State Holiday
+us,15/01/2024,Monday,Idaho Human Rights Day,State Holiday
+us,15/01/2024,Monday,Civil Rights Day,State Holiday
+us,19/01/2024,Friday,Robert E. Lee's Birthday,State Legal Holiday
+us,19/01/2024,Friday,Confederate Heroes' Day,State Holiday
+us,25/01/2024,Thursday,Tu Bishvat/Tu B'Shevat,Jewish holiday
+us,12/02/2024,Monday,Lincoln's Birthday,State Holiday
+us,12/02/2024,Monday,Lincoln's Birthday,State Legal Holiday
+us,13/02/2024,Tuesday,Shrove Tuesday/Mardi Gras,State Holiday
+us,19/02/2024,Monday,Presidents' Day,Federal Holiday
+us,19/02/2024,Monday,Presidents' Day,State Holiday
+us,19/02/2024,Monday,Presidents' Day,State Legal Holiday
+us,19/02/2024,Monday,Daisy Gatson Bates Day,State Holiday
+us,02/03/2024,Saturday,Texas Independence Day,State Holiday
+us,05/03/2024,Tuesday,Town Meeting Day,State Holiday
+us,08/03/2024,Friday,Maha Shivaratri,Hindu Holiday
+us,17/03/2024,Sunday,Evacuation Day,State Holiday
+us,18/03/2024,Monday,Evacuation Day observed,State Holiday
+us,24/03/2024,Sunday,Purim,Jewish holiday
+us,25/03/2024,Monday,Holi,Hindu Holiday
+us,25/03/2024,Monday,Seward's Day,State Holiday
+us,26/03/2024,Tuesday,Prince Jonah Kuhio Kalanianaole Day,State Holiday
+us,29/03/2024,Friday,Good Friday,State Holiday
+us,29/03/2024,Friday,State Holiday,State Holiday
+us,31/03/2024,Sunday,César Chávez Day,State Holiday
+us,31/03/2024,Sunday,César Chávez Day,State Holiday
+us,01/04/2024,Monday,César Chávez Day (substitute),State Holiday
+us,15/04/2024,Monday,Patriots' Day,State Holiday
+us,16/04/2024,Tuesday,Emancipation Day,State Holiday
+us,21/04/2024,Sunday,San Jacinto Day,State Holiday
+us,22/04/2024,Monday,Passover Eve,Jewish holiday
+us,22/04/2024,Monday,Confederate Memorial Day,State Holiday
+us,23/04/2024,Tuesday,Passover (first day),Jewish holiday
+us,26/04/2024,Friday,Arbor Day,State Holiday
+us,26/04/2024,Friday,Confederate Memorial Day,State Legal Holiday
+us,29/04/2024,Monday,Confederate Memorial Day,State Holiday
+us,30/04/2024,Tuesday,Last Day of Passover,Jewish holiday
+us,08/05/2024,Wednesday,Truman Day,State Holiday
+us,10/05/2024,Friday,Confederate Memorial Day,State Holiday
+us,12/05/2024,Sunday,Mother's Day,State Holiday
+us,14/05/2024,Tuesday,Yom Ha'atzmaut,Jewish holiday
+us,14/05/2024,Tuesday,Primary Election Day,State Holiday
+us,26/05/2024,Sunday,Lag BaOmer,Jewish holiday
+us,27/05/2024,Monday,Memorial Day,Federal Holiday
+us,27/05/2024,Monday,Decoration Day,State Holiday
+us,02/06/2024,Sunday,Native American Day,State Holiday
+us,03/06/2024,Monday,Jefferson Davis' Birthday,State Holiday
+us,11/06/2024,Tuesday,Kamehameha Day,State Holiday
+us,12/06/2024,Wednesday,Shavuot,Jewish holiday
+us,14/06/2024,Friday,Juneteenth,State Holiday
+us,16/06/2024,Sunday,Father's Day,State Holiday
+us,17/06/2024,Monday,Bunker Hill Day,Local holiday
+us,17/06/2024,Monday,Juneteenth Freedom Day (substitute),State Holiday
+us,19/06/2024,Wednesday,Juneteenth,Federal Holiday
+us,19/06/2024,Wednesday,Juneteenth National Freedom Day,State Holiday
+us,19/06/2024,Wednesday,Juneteenth Freedom Day,State Holiday
+us,19/06/2024,Wednesday,Emancipation Day,State Holiday
+us,20/06/2024,Thursday,West Virginia Day,State Holiday
+us,21/06/2024,Friday,Juneteenth Day,State Holiday
+us,04/07/2024,Thursday,Independence Day,State Holiday
+us,04/07/2024,Thursday,Independence Day,Federal Holiday
+us,24/07/2024,Wednesday,Pioneer Day,State Holiday
+us,04/08/2024,Sunday,American Family Day,State Holiday
+us,12/08/2024,Monday,Victory Day,State Holiday
+us,13/08/2024,Tuesday,Tisha B'Av,Jewish holiday
+us,16/08/2024,Friday,Hawaii Statehood Day,State Holiday
+us,16/08/2024,Friday,Bennington Battle Day,State Holiday
+us,18/08/2024,Sunday,National Navajo Code Talkers Day,State Holiday
+us,19/08/2024,Monday,Raksha Bandhan,Hindu Holiday
+us,26/08/2024,Monday,Janmashtami,Hindu Holiday
+us,27/08/2024,Tuesday,Lyndon Baines Johnson Day,State Holiday
+us,02/09/2024,Monday,Labor Day,Federal Holiday
+us,02/09/2024,Monday,Labor Day,State Holiday
+us,06/09/2024,Friday,Ganesh Chaturthi,Hindu Holiday
+us,09/09/2024,Monday,California Admission Day,State Holiday
+us,15/09/2024,Sunday,Constitution Commemoration Day,State Holiday
+us,03/10/2024,Thursday,Navratri,Hindu Holiday
+us,03/10/2024,Thursday,Rosh Hashana,Jewish holiday
+us,03/10/2024,Thursday,Rosh Hashana,State Holiday
+us,07/10/2024,Monday,Frances Xavier Cabrini Day,State Holiday
+us,12/10/2024,Saturday,Dussehra,Hindu Holiday
+us,12/10/2024,Saturday,Yom Kippur,Jewish holiday
+us,12/10/2024,Saturday,Yom Kippur,State Holiday
+us,14/10/2024,Monday,Columbus Day,State Holiday
+us,14/10/2024,Monday,Columbus Day,Federal Holiday
+us,14/10/2024,Monday,Columbus Day,State Legal Holiday
+us,14/10/2024,Monday,Fraternal Day,State Holiday
+us,14/10/2024,Monday,Yorktown Victory Day,State Holiday
+us,14/10/2024,Monday,Native American Day,State Holiday
+us,14/10/2024,Monday,Indigenous People's Day,State Holiday
+us,14/10/2024,Monday,American Indian Heritage Day,State Holiday
+us,17/10/2024,Thursday,First Day of Sukkot,Jewish holiday
+us,18/10/2024,Friday,Alaska Day,State Holiday
+us,23/10/2024,Wednesday,Last Day of Sukkot,Jewish holiday
+us,24/10/2024,Thursday,Shmini Atzeret,Jewish holiday
+us,25/10/2024,Friday,Simchat Torah,Jewish holiday
+us,25/10/2024,Friday,Nevada Day,State Holiday
+us,31/10/2024,Thursday,Diwali/Deepavali,Hindu Holiday
+us,05/11/2024,Tuesday,Election Day,State Holiday
+us,07/11/2024,Thursday,Return Day,State Holiday
+us,11/11/2024,Monday,Veterans Day,Federal Holiday
+us,11/11/2024,Monday,Veterans Day,State Holiday
+us,28/11/2024,Thursday,Thanksgiving Day,State Holiday
+us,28/11/2024,Thursday,Thanksgiving Day,Federal Holiday
+us,29/11/2024,Friday,State Holiday,State Holiday
+us,29/11/2024,Friday,Presidents' Day,State Holiday
+us,29/11/2024,Friday,Lincoln's Birthday/Lincoln's Day,State Holiday
+us,29/11/2024,Friday,Day After Thanksgiving,State Holiday
+us,29/11/2024,Friday,American Indian Heritage Day,State Holiday
+us,29/11/2024,Friday,Native American Heritage Day,State Holiday
+us,24/12/2024,Tuesday,Christmas Eve,State Holiday
+us,25/12/2024,Wednesday,Christmas Day,State Holiday
+us,25/12/2024,Wednesday,Christmas Day,Federal Holiday
+us,26/12/2024,Thursday,Chanukah/Hanukkah (first day),Jewish holiday
+us,26/12/2024,Thursday,Day After Christmas Day,State Holiday
+us,31/12/2024,Tuesday,New Year's Eve,State Holiday
