@@ -1,5 +1,5 @@
 pandas
-selenium
+selenium = 4.12.0
 bs4
 datetime
 time
