@@ -1,10 +1,8 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-# print (webdriver.__version__)
+
 from bs4 import BeautifulSoup
 from datetime import datetime
 import datetime as dt

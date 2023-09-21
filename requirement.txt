@@ -1,0 +1,6 @@
+pandas
+selenium
+bs4
+datetime
+time
+
